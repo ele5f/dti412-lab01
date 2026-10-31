@@ -26,6 +26,11 @@ I want to work in digital technology, building web applications and digital prod
 
 I expect to learn how to build full web applications, work with Git and GitHub in a team, and deploy my projects online.
 
+## Current Progress
+
+- Completed DTI412 Lab 1: set up Git, created and cloned a GitHub repository, and pushed my first commit.
+- Skills practiced: git clone, status, add, commit, log, and push.
+
 ## Future Development Plan
 
 - Technical skills I want to improve: Python, backend development, databases
